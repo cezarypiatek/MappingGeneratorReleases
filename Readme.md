@@ -1,0 +1,1 @@
+# Releases of MappingGenerator
