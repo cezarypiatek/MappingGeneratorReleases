@@ -1,4 +1,5 @@
 # MappingGenerator
+![newmapping_square](https://user-images.githubusercontent.com/7759991/162615867-154ad93a-b430-442e-a1bf-bcfdebf0381f.png)
 
 Release notes https://github.com/cezarypiatek/MappingGeneratorReleases/releases
 
